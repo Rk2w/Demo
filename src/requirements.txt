@@ -6,3 +6,4 @@ sounddevice==0.4.6
 soundfile==0.12.1
 streamlit==1.30.0
 tqdm==4.66.1
+tensorflow==2.15.0

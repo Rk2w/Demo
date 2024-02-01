@@ -1,0 +1,8 @@
+streamlit
+librosa
+numpy
+keras
+sounddevice
+soundfile
+plotly
+tqdm
